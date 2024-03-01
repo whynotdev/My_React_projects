@@ -1,9 +1,11 @@
+import Todo from "./Todo"
+import "./App.css"
 function App() {
   
 
   return (
     <>
-    <h2>Sai Kiran is Here</h2>
+    <Todo/>
     </>
   )
 }
